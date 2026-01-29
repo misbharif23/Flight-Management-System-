@@ -49,7 +49,7 @@ Execution
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/flight-management-system.git
+git clone [https://github.com/your-username/flight-management-system.git](https://github.com/misbharif23/Flight-Management-System-.git)
 Compile:
 
 Bash
